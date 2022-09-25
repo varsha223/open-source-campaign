@@ -8,16 +8,16 @@ assignees: ''
 ---
 
 **Name of Proposer**
-Enter your StackUp username here.
+varshakhumbhani
 
 **Is your feature request related to a problem? Please describe.**
-A 2-3 sentence, clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+I'm always frustrated when i learn from learning section but if i am not watch full video then also i am getting rewards 
 
 **Describe the solution you'd like**
-A 2-3 sentence, clear and concise description of what you want to happen.
+update the backend process and change the setting to if full video is completted then it can get rewards otherwise anyone don't get any rewards
 
 **Describe alternatives you've considered**
-A 2-3 sentence, clear and concise description of any alternative solutions or features you've considered.
+alternative splution is to change the video rewards setting to none for better quality and produce more quality videos
 
 **Additional context**
-Add any other context or screenshots about the feature request here.
+if you are reduce the rewards and focus on the quality of video then it is good for all stackies 
